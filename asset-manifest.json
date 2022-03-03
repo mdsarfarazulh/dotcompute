@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dotcompute/static/css/main.073c9b0a.css",
+    "main.js": "/dotcompute/static/js/main.5f0dd778.js",
+    "static/js/787.506c5d42.chunk.js": "/dotcompute/static/js/787.506c5d42.chunk.js",
+    "static/media/logo.svg": "/dotcompute/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dotcompute/index.html",
+    "main.073c9b0a.css.map": "/dotcompute/static/css/main.073c9b0a.css.map",
+    "main.5f0dd778.js.map": "/dotcompute/static/js/main.5f0dd778.js.map",
+    "787.506c5d42.chunk.js.map": "/dotcompute/static/js/787.506c5d42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5f0dd778.js"
+  ]
+}
